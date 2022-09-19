@@ -1,0 +1,11 @@
+#Joshua McBratnie
+#Class ITCS 1140 S1601 2022FA
+#08-22-22
+#class assignment 01
+#takes user input and prints out the users full name
+
+#takes inputs
+firstName = input("What is your First name? ")
+lastName = input("What is your last name? ")
+#returns the inputs to the user
+print(firstName, lastName)
